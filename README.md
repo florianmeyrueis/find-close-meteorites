@@ -8,7 +8,7 @@ First install pipenv
 the
 
 `pipenv install requests`
-`pipenv run python find_meteorites.py`
+`pipenv run python meteor/find_meteorites.py`
 
 
 
