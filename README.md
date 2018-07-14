@@ -4,4 +4,11 @@ Find closet meteorties from home
 # Running it
 This project need python3 and requests package
 
-`python3 find_meteorites.py`
+First install pipenv
+the
+
+`pipenv install requests`
+`pipenv run python find_meteorites.py`
+
+
+
